@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Bansi Basha</h1>
-<h3 align="center">MERN Stack Frontend Developer | CSE ’27</h3>
+<h3 align="center">MERN Stack Developer | CSE ’27 | Building Scalable Web Applications</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bansi-basha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/bansi957" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   </a>
   <a href="mailto:bansibasha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Real-Time+Applications+with+Socket.IO;DSA+%7C+Problem+Solving;Open+to+Internships+and+Remote+Roles" />
 </p>
 
 ---
@@ -18,10 +22,11 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science Undergraduate (**CSE ’27**) at **IIIT Srikakulam**
-- 💻 **MERN Stack Frontend Developer**
-- ⚛️ Strong in **React.js, Redux, Tailwind CSS**
-- 🧠 Good problem-solving skills (**Data Structures & Algorithms**)
-- 🔥 Built real-world projects with **real-time features**
+- 💻 **MERN Stack Developer** (Frontend + Backend)
+- ⚛️ Experienced in **React.js, Redux, Tailwind CSS**
+- ⚙️ Backend development using **Node.js, Express.js, MongoDB**
+- 🔌 Built **real-time systems** with **Socket.IO**
+- 🧠 Strong foundation in **Data Structures & Algorithms**
 - 🌍 Open to **Remote / Internship / Fresher Roles**
 - ⚡ Immediate Joiner
 
@@ -29,55 +34,102 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind" />
+</p>
 
-### Backend & Tools
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🍔 MERN Stack Food Delivery App
-- Role-based dashboards (User / Owner / Delivery)
-- Real-time order updates using **Socket.IO**
-- Razorpay payment integration
-- Secure JWT authentication  
-🔗 **Repo:** https://github.com/bansi957
+### 🍔 MERN Stack Food Delivery Application
+- End-to-end MERN application with **role-based dashboards**
+- **Real-time order updates & tracking** using Socket.IO
+- Secure authentication & authorization using **JWT**
+- Integrated online payments and complete order lifecycle
+- Focused on scalability, performance, and clean UI
 
 ---
 
 ### ✍️ React + Appwrite Blogging Platform
-- Rich text editor (TinyMCE)
-- Authentication & CRUD operations
-- Responsive UI with modern React  
-🔗 **Repo:** https://github.com/bansi957
+- Full-featured blogging platform with **user authentication**
+- Rich-text editor for creating and managing posts
+- CRUD operations with media uploads & storage
+- Responsive UI built with modern React practices
 
 ---
 
-## 🧠 DSA & Problem Solving
+### 🔐 Authentication & Authorization System
+- Implemented **JWT-based authentication**
+- Secure signup/login with password hashing
+- Protected routes and role-based access control
+- Reusable middleware for request validation
 
-- ✅ Solved **300+ LeetCode problems**
-- 🔗 LeetCode: https://leetcode.com/u/bansi2k28/
-- Topics: Arrays, Trees, Graphs, DP, Recursion
+---
+
+### 💬 Real-Time Chat / Notification System
+- Built real-time communication using **Socket.IO**
+- Instant updates without page reloads
+- Scalable event-driven architecture
+- Backend integration for message persistence
+
+---
+
+### 🛒 E-Commerce / Order Management Module
+- Product listing, cart, and order workflows
+- Backend APIs for products, users, and orders
+- Admin-style management features
+- Clean UI with predictable state management
+
+---
+
+### 📊 Dashboard & Admin Panel Interfaces
+- Dynamic dashboards with live data rendering
+- Filters, status updates, and analytics-style UI
+- State management using **Redux**
+- Fully responsive layouts for all screen sizes
+
+---
+
+### 🌐 REST API Development
+- Designed RESTful APIs using **Node.js & Express**
+- MongoDB schema design with **Mongoose**
+- Validation, error handling, and secure endpoints
+- Followed clean MVC-style architecture
+
+---
+
+## 🧠 Data Structures & Problem Solving
+
+- Solved **300+ DSA problems**
+- Topics covered:
+  - Arrays & Strings
+  - Linked Lists, Trees, Graphs
+  - Recursion & Dynamic Programming
+- Strong focus on **optimized logic & clean code**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bansi957&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bansi957&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bansi957&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bansi957&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bansi957&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -87,3 +139,7 @@
 - 📧 Email: **bansibasha@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/bansi-basha/
 - 💻 GitHub: https://github.com/bansi957
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
