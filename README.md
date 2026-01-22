@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="ChatGPT Image Jan 22, 2026, 11_39_06 AM.png" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Bansi Basha</h1>
 <h3 align="center">MERN Stack Developer | CSE ’27 | Building Scalable Web Applications</h3>
